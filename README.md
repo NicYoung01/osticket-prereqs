@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install / Enable IIS in Windows WITH CGI
 - Download / Install PHP Manager for IIS, Rewrite Module, PHP 7.3.8 (unzip into C:\PHP), VC_redist.x86.exe
 - Download / Install MySQL 5.5.62 (Typical Setup / Standard Configuration / *password*)
-- Register PHP from within IIS (IIS run as administator)
+- Register PHP from within IIS (IIS run as administrator)
 - Download osTicket extract and copy “upload” folder to c:\inetpub\wwwroot and rename folder "osTicket"
 - Enable: php_imap.dll, Enable: php_intl.dll, Enable: php_opcache.dll inside of PHP Manager
 - Assign Permissions in C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php (rename ost-config.php)
